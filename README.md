@@ -1,4 +1,4 @@
-# Code for analyzing Wine Reviews dataset
+# Code for analyzing Video Game Sales dataset
 * dataset: Video Game Sales from Kaggle `https://www.kaggle.com/gregorut/videogamesales`
 # Requirements
 * python >= 3.6
